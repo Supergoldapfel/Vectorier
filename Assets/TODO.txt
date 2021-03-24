@@ -1,0 +1,8 @@
+TODO List:
+- Menu: ConfirmNewMapButtonScript.cs -> Feedback if map already exists
+
+- General: 
+	Setup: Load data for replacing 1-2 and object references
+	New Map: Create Folder and with xml File
+	Edit Map: Load xml Nodes from xml file as gameobjects
+	Map Editor: When saving, save gameobjects to xml file
